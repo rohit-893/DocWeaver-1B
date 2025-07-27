@@ -82,15 +82,11 @@ Installed automatically by Docker:
 
 ## 👥 Authors
 
-- [Your Name / Team Here]
-- [Contact or GitHub here]
+- Rohit Kumar & Shivam Kumar Singh
+- Submission for **Adobe India Hackathon 2025**
 
 ## 📝 Notes
 
 - For submission, keep your repo private until instructed.
 - Improve heading detection, chunking, or add multilingual support for bonus points.
 - For questions, contact the team or raise an issue.
-
-**Good luck and happy hacking!**
-
----
