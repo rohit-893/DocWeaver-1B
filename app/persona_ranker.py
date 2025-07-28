@@ -1,7 +1,7 @@
 import os, json, time
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
-from app.outline_extractor import extract_sections
+from outline_extractor import extract_sections
 
 def rank_sections(pdfs, persona, job, top_k=5):
     model = SentenceTransformer("all-MiniLM-L6-v2")  # ~90MB fits <1GB
