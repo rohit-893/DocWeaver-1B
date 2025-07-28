@@ -163,20 +163,6 @@ A structured JSON containing document names, page numbers, sections, and subsect
 
 ---
 
-## ✅ Hackathon Compliance
-
-| Criteria                                             | Status   |
-|------------------------------------------------------|----------|
-| CPU-only execution                                   | ✅ Yes   |
-| AMD64 architecture                                   | ✅ Yes   |
-| No GPU or internet dependency at runtime (after cache) | ✅ Yes |
-| Model size under 1GB                                 | ✅ Yes   |
-| Process completes in under 60s                       | ✅ Yes   |
-| Output JSON in specified format                      | ✅ Yes   |
-| Docker-compatible with volume mounts                 | ✅ Yes   |
-
----
-
 ## 👤 Author / Team
 
 **Team Name**: DocWeaver  
