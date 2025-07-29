@@ -165,6 +165,5 @@ A structured JSON containing document names, page numbers, sections, and subsect
 
 ## 👤 Author / Team
 
-**Team Name**: DocWeaver  
 **Hackathon**: Adobe India - Connecting the Dots Challenge  
 **Team Members**: Shivam Kumar Singh & Rohit Kumar
